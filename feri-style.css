@@ -1,0 +1,82 @@
+body {
+	padding: 30px;
+	font-family: "Times New Roman";
+	max-width: 85%;
+	margin: 0 auto;
+	font-size: 20px;
+	background-color: #339900;
+}
+
+
+.content {
+	text-align: center;
+	list-style-position: inside;
+	background-color: #CCCC00;
+	border-radius: 10%;
+	max-width: 40%;
+	margin: auto;
+}
+
+
+
+.image2 {
+
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	font-family: "broadway"; 
+}
+
+p {
+	margin: 30px;
+	font-family: "Comic Sans MS";
+
+
+}
+
+li {
+	font-size: large;
+	line-height: 40px;
+	margin-right: 35px;
+}
+
+.stage {
+	background-color: #7cfc00;
+	border-radius: 10%;
+	color: #280000;
+	padding: 15px;
+	margin: 30px;
+}
+
+h2 {
+	margin: 20px;
+	font-size: 35px;
+
+}
+
+.concept {
+	background-color: #00bfff;
+	padding: 8px;
+	margin: 15px;
+	border-radius: 20%;
+	color: black;
+}
+
+.concept-title {
+	font-size: 30px;
+	margin: auto;
+	text-align: center;
+	color: #522900;
+	text-decoration: underline;
+}
+
+.concept-description {
+	font-weight: normal;
+	margin: auto;
+}
